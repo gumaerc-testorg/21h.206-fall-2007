@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ffe35fc7-094f-874e-0c56-1e5f9ebe2ee2
 resourcetype: Document
 title: psj.pdf
 uid: 345f48b8-8edf-e6b3-6a9b-998593c728de

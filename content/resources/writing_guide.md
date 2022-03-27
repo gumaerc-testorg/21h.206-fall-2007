@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: f9d013d8-06e4-7f05-a32e-2411c0dd29ca
 resourcetype: Document
 title: writing_guide.pdf
 uid: 30b1ee25-fb5c-76f7-4388-11d725508c5f
