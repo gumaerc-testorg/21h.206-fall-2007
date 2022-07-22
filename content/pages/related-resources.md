@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: The related resources section includes advice for writing high-quality
+  papers and external links useful for study of American commercials.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: f9d013d8-06e4-7f05-a32e-2411c0dd29ca
 ---
 
-Prof. Jacobs has advice for writing high-quality papers: ([PDF]({{< baseurl >}}/resources/writing_guide))
+Prof. Jacobs has advice for writing high-quality papers: ({{% resource_link 30b1ee25-fb5c-76f7-4388-11d725508c5f "PDF" %}})
 
 The following links may be useful in your study of American commercials.
 

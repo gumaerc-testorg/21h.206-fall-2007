@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview, a syllabus archive,
+  and information on meeting times, format, assignments, texts, and the Writing and
+  getting writing help.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 76b71efd-d00a-b067-bdb3-257593c5c796
 ---
@@ -14,15 +19,15 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2007, Meg Jacobs ([PDF]({{< baseurl >}}/resources/mit21h_206f07_syllf07))
+> Fall 2007, Meg Jacobs ({{% resource_link d0708f4e-4212-70ee-091d-0ad6f92035e5 "PDF" %}})
 > 
-> Spring 2007, Meg Jacobs ([PDF]({{< baseurl >}}/resources/mit21h_206f07_sylls07))
+> Spring 2007, Meg Jacobs ({{% resource_link cceeca44-d828-43da-7f45-7dfcb53a8d11 "PDF" %}})
 > 
-> Fall 2005, Meg Jacobs ([PDF]({{< baseurl >}}/resources/mit21h_206f07_syllf05))
+> Fall 2005, Meg Jacobs ({{% resource_link 86d30401-a436-c7ef-1a80-bab450918cc8 "PDF" %}})
 > 
-> Fall 2004, Meg Jacobs ([PDF]({{< baseurl >}}/resources/mit21h_206f07_syllf04))
+> Fall 2004, Meg Jacobs ({{% resource_link 32e6d7fe-9787-5de6-a7b2-5377162c4a40 "PDF" %}})
 > 
-> Fall 2001, Meg Jacobs ([PDF]({{< baseurl >}}/resources/mit21h_206f07_syllf01))
+> Fall 2001, Meg Jacobs ({{% resource_link ae6784ce-911a-fd84-5cf1-1c9907af5d5d "PDF" %}})
 
 Overview
 --------
