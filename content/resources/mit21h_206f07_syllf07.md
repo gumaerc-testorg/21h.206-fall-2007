@@ -6,6 +6,7 @@ description: This resource contains information about examining how and why twen
 file: /courses/21h-206-american-consumer-culture-fall-2007/d0708f4e421270ee091d0ad6f92035e5_MIT21H_206f07_syllf07.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21H_206f07_syllf07.pdf
 uid: d0708f4e-4212-70ee-091d-0ad6f92035e5
 ---
 This resource contains information about examining how and why twentieth-century Americans came to define the ?good life? through consumption, leisure, and material abundance.
-

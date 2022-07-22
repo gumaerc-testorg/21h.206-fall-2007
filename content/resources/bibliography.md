@@ -5,6 +5,7 @@ file: /courses/21h-206-american-consumer-culture-fall-2007/f73cf5d3e9e89ff4b5b21
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bibliography.pdf
 uid: f73cf5d3-e9e8-9ff4-b5b2-1f9efdd25a4f
 ---
 Assignment to list sources and how they will be used for the Final Paper.
-
