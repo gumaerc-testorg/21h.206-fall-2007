@@ -3,6 +3,7 @@ content_type: resource
 description: Assignment to pick out a single best source and explain what its significance
   is.
 file: /courses/21h-206-american-consumer-culture-fall-2007/387a8e2593ae505a1d72486e8741c76f_best.pdf
+file_size: 15214
 file_type: application/pdf
 learning_resource_types:
 - Assignments
