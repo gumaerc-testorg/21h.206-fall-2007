@@ -5,6 +5,7 @@ description: 'This resource contains information about how and why twentieth-cen
 
   consumption, leisure, and material abundance.'
 file: /courses/21h-206-american-consumer-culture-fall-2007/86d30401a436c7ef1a80bab450918cc8_MIT21H_206f07_syllf05.pdf
+file_size: 33780
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

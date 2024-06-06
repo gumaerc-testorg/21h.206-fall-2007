@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading Questions for Theodore Dreisel, Sister Carrie.
 file: /courses/21h-206-american-consumer-culture-fall-2007/3785763fea9c081c467fb9753d567352_carrie.pdf
+file_size: 13816
 file_type: application/pdf
 learning_resource_types:
 - Assignments
