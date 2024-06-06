@@ -2,6 +2,7 @@
 content_type: resource
 description: A list of possible topics for the Final Paper assignment.
 file: /courses/21h-206-american-consumer-culture-fall-2007/1e8c59d978ed4ade6d22818203c34220_topics.pdf
+file_size: 23266
 file_type: application/pdf
 learning_resource_types:
 - Assignments

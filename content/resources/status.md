@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading Questions for Vance Packard, The Status Seekers.
 file: /courses/21h-206-american-consumer-culture-fall-2007/1eacb42d0329508c6c98bde86c305421_status.pdf
+file_size: 10100
 file_type: application/pdf
 learning_resource_types:
 - Assignments
