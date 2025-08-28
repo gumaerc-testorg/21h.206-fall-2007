@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading questions for Sinclair Lewis, Babbitt.
-file: /ol-ocw-studio-app/courses/21h-206-american-consumer-culture-fall-2007/f25175daf2849291699cb2fbefd27d4d_babbitt.pdf
+file: /courses/21h-206-american-consumer-culture-fall-2007/f25175daf2849291699cb2fbefd27d4d_babbitt.pdf
 file_size: 9695
 file_type: application/pdf
 learning_resource_types:
