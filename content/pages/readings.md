@@ -11,9 +11,9 @@ uid: ec5c4cf4-6666-b464-33da-25a45b7443c9
 
 The readings for this course come from the following books:
 
-Dreiser, Theodore. _Sister Carrie_. (1900) ([Download from Project Gutenberg](http://www.gutenberg.org/etext/5267))
+Dreiser, Theodore. _Sister Carrie_. (1900) ({{% resource_link "c3b8b03d-e1de-45d9-aea0-a200c0e84cfa" "Download from Project Gutenberg" %}})
 
-Lewis, Sinclair. _Babbitt_. (1922) ([Download from Project Gutenberg](http://www.gutenberg.org/etext/1156))
+Lewis, Sinclair. _Babbitt_. (1922) ({{% resource_link "439fb3f4-6f57-472c-9ad0-ef5946d89650" "Download from Project Gutenberg" %}})
 
 Horowitz, Daniel, and Vance Packard, eds. _Status Seekers_. Bedford: St. Martin's, 1995. ISBN: 9780312111809.
 
