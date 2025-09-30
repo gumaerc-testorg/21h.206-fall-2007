@@ -44,12 +44,12 @@ Texts
 
 Readings will include novels and non-fiction books. All materials are available for purchase at the MIT Server:
 
-*   Dreiser, Theodore. [Sister Carrie](http://www.gutenberg.org/etext/233). (1900)
-*   Lewis, Sinclair. [Babbitt](http://www.gutenberg.org/etext/1156). (1922)
+*   Dreiser, Theodore. {{% resource_link "6f128fa1-a8c6-4c9e-ba5c-78296faae5ee" "Sister Carrie" %}}. (1900)
+*   Lewis, Sinclair. {{% resource_link "439fb3f4-6f57-472c-9ad0-ef5946d89650" "Babbitt" %}}. (1922)
 *   Packard, Vance. _Status Seekers._ (1959)
 *   Schlosser, Eric. _Fast Food Nation._ (2001)
 
 Writing Help
 ------------
 
-The **Writing and Communication Center** offers you free professional advice from published writers about oral presentations and about all types of academic, creative, and professional writing. Go to the  [MIT Online Writing and Communication Center](http://web.mit.edu/writing/) and click on the yellow sunburst. If you cannot find an open appointment slot, do not despair. There are always cancellations on the day of the appointment (sometimes as many as 15 cancellations in one day). Click on the Wait List (the blue strip that says "**Is the time that you want already reserved?**"). Whenever a cancellation occurs on that day, you will be automatically notified by email. Because several people might receive that same message, go online as soon as possible to schedule that open spot; 96% of clients who want an appointment end up with one if they use the wait list. If you still can't find an appointment, try the [Online Tutor](http://web.mit.edu/writing/Center/onlinetutor.html).
+The **Writing and Communication Center** offers you free professional advice from published writers about oral presentations and about all types of academic, creative, and professional writing. Go to the  {{% resource_link "c4317178-f872-4274-a6d1-833f75b257d9" "MIT Online Writing and Communication Center" %}} and click on the yellow sunburst. If you cannot find an open appointment slot, do not despair. There are always cancellations on the day of the appointment (sometimes as many as 15 cancellations in one day). Click on the Wait List (the blue strip that says "**Is the time that you want already reserved?**"). Whenever a cancellation occurs on that day, you will be automatically notified by email. Because several people might receive that same message, go online as soon as possible to schedule that open spot; 96% of clients who want an appointment end up with one if they use the wait list. If you still can't find an appointment, try the {{% resource_link "90cf1976-fc5c-4c53-a373-d3b1d934ddb4" "Online Tutor" %}}.
